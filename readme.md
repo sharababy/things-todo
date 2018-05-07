@@ -16,28 +16,6 @@
 
  * Rust [here](https://www.rust-lang.org/en-US/) (mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
 
-```C
-    int main ()
-    {
-    	while (Summer_Vactions)
-		{
-			/*
-				Don't let the Hurdles of new Framework or Language stop you
-			*/
-			Learn_More ();
-			Enhance_Skills ();
-			Figure_Your_Interest_Out ();
-
-			if (Doubt)
-			{
-				Google_It ();	// You Learn more on the go today
-				Ask_Us ();		// You know where we are
-			}
-		}
-
-		return (Confidence);
-    }
-```
 
 * Install and Learn how to use GIT from [here](https://git-scm.com/) **(Very Important)**
 
@@ -93,3 +71,4 @@
 * Try Learning more about Data Structures and implement them in at least one language
 
 * If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) 
+
