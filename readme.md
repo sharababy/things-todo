@@ -31,6 +31,8 @@
 
 * Learn how to make an app with either React Native or Java.
 
+* Sign up for [Github Student Developer Pack](https://education.github.com/pack) to get some sweet goodies (like free private repositories on github).
+
 * Learn HTML and CSS.
 
 * Learn C++(http://www.learncpp.com/cpp-tutorial/01-introduction-to-these-tutorials/)
