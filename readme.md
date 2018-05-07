@@ -50,9 +50,9 @@
 
 * Learn HTML and CSS.
 
-* Learn C++
+* Learn C++(http://www.learncpp.com/cpp-tutorial/01-introduction-to-these-tutorials/)
 
-* Learn how to use STL with C++
+* Learn how to use STL with C++(https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)
 
 * Learn about database system like MySQL or MongoDB.
 
