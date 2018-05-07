@@ -15,6 +15,26 @@
  * Golang [here](https://golang.org/)
 
  * Rust [here](https://www.rust-lang.org/en-US/) (mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
+    int main ()
+    {
+    	while (Summer_Vactions)
+		{
+			/*
+				Don't let the Hurdles of new Framework or Language stop you
+			*/
+			Learn_More ();
+			Enhance_Skills ();
+			Figure_Your_Interest_Out ();
+
+			if (Doubt)
+			{
+				Google_It ();	// You Learn more on the go today
+				Ask_Us ();		// You know where we are
+			}
+		}
+
+		return (Confidence);
+    }
 
 * Install and Learn how to use GIT from [here](https://git-scm.com/) **(Very Important)**
 
@@ -42,7 +62,7 @@
 
 * Implement one GUI based application using python or C++
 
-* Try solving atleast 2 problems a day from CodeChef or HackerRank
+* Try solving atleast 2 problems a day from CodeChef / HackerRank / HackerEarth
 
 * Explore stuff from [Github Explore](https://github.com/explore)
 
@@ -65,3 +85,8 @@
  * For example, try accessing or downloading your drive files through your command line and try printing your liked videos from YouTube by using their APIs. 
 
  * You can imagine anything more you want and play around with them which in turn gives motivation.
+* Install a Linux based OS (Standalone or Dual Boot with Windows) ([Ubuntu](https://www.ubuntu.com/desktop),[Arch Linux](https://www.archlinux.org/)) on your laptop and learn how to operate Linux based Operating Systems.
+
+* Try Learning more about Data Structures and implement them in at least one language
+
+* If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) 
