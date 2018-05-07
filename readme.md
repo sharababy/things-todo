@@ -4,17 +4,17 @@
 
 * You need to learn at least five languages by the time you pass out of college. Some really good languages both for competitive programming (mainly for object oriented programming) and web development are : 
 
- * C and C++
+  * C and C++
 
- * Python
+  * Python
 
- * Javascript [here](https://www.w3schools.com/js/default.asp) and [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is embedding JS into web pages
+  * Javascript [here](https://www.w3schools.com/js/default.asp) and [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is embedding JS into web pages
 
- * Java
+  * Java
 
- * Golang [here](https://golang.org/)
+  * Golang [here](https://golang.org/)
 
- * Rust [here](https://www.rust-lang.org/en-US/) (mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
+  * Rust [here](https://www.rust-lang.org/en-US/) (mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
 
 
 * Install and Learn how to use GIT from [here](https://git-scm.com/) **(Very Important)**
@@ -51,15 +51,15 @@
 
 * Here are some websites where you can find news about upcoming technologies and really awesome stuff
 
- [The Verge](https://www.theverge.com/)
+  * [The Verge](https://www.theverge.com/)
 
- [The New Stack](https://thenewstack.io/)
+  * [The New Stack](https://thenewstack.io/)
 
- [The Well Known TechCrunch](https://techcrunch.com/)
+  * [The Well Known TechCrunch](https://techcrunch.com/)
 
- [The Next Web](https://techcrunch.com/)
+  * [The Next Web](https://techcrunch.com/)
 
- [The Medium](https://medium.com/topic/technology)
+  * [The Medium](https://medium.com/topic/technology)
 
 * Learn how to use APIs (All the Google Applications like Drive, Calendar, Contacts, YouTube are mostly on GitHub)
 
