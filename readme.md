@@ -16,6 +16,7 @@
 
  * Rust [here](https://www.rust-lang.org/en-US/) (mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
 
+```C
     int main ()
     {
     	while (Summer_Vactions)
@@ -36,6 +37,7 @@
 
 		return (Confidence);
     }
+```
 
 * Install and Learn how to use GIT from [here](https://git-scm.com/) **(Very Important)**
 
