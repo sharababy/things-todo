@@ -63,11 +63,10 @@
 
 * Learn how to use APIs (All the Google Applications like Drive, Calendar, Contacts, YouTube are mostly on GitHub)
 
- * For example, try accessing or downloading your drive files through your command line and try printing your liked videos from YouTube by using their APIs. 
+  * For example, try accessing or downloading your drive files through your command line and try printing your liked videos from YouTube by using their APIs. 
 
- * You can imagine anything more you want and play around with them which in turn gives motivation.
-* Install a Linux based OS (Standalone or Dual Boot with Windows) ([Ubuntu](https://www.ubuntu.com/desktop),[Arch Linux](https://www.archlinux.org/)) on your laptop and learn how to operate Linux based Operating Systems.
-
+  * You can imagine anything more you want and play around with them which in turn gives motivation.
+  
 * Try Learning more about Data Structures and implement them in at least one language
 
 * If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) 
