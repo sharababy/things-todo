@@ -1,3 +1,5 @@
+* Check out what comes inside Computer Science by watching this video [Map of Computer Science](https://youtu.be/SzJ46YA_RaA).
+
 * Install a Linux based OS ([Ubuntu](https://www.ubuntu.com/desktop),[Arch Linux](https://www.archlinux.org/)) on your laptop and learn how to operate Linux based Operating Systems.
 
 * Make it a point that whatever(yes!! literally everything) you do in your computer you do it through command line. Even when it comes to copying, moving or renaming files. Refrain from using file explorers and GUI clients until you really get a firm grip on Linux commands.
