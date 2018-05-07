@@ -1,11 +1,26 @@
+* Install a Linux based OS ([Ubuntu](https://www.ubuntu.com/desktop),[Arch Linux](https://www.archlinux.org/)) on your laptop and learn how to operate Linux based Operating Systems.
+
+* Make it a point that whatever(yes!! literally everything) you do in your computer you do it through command line. Even when it comes to copying, moving or renaming files. Refrain from using file explorers and GUI clients until you really get a firm grip on Linux commands.
+
+* You need to learn at least five languages by the time you pass out of college. Some really good languages both for competitive programming (mainly for object oriented programming) and web development are : 
+
+ * C and C++
+
+ * Python
+
+ * Javascript [here](https://www.w3schools.com/js/default.asp) and [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is embedding JS into web pages
+
+ * Java
+
+ * Golang [here](https://golang.org/)
+
+ * Rust [here](https://www.rust-lang.org/en-US/) (mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
+
 * Install and Learn how to use GIT from [here](https://git-scm.com/) **(Very Important)**
 
 * Make a Github Account **(Very Important)**
-
-* Learn any one of either JavaScript or Python or both.
-  (Javascript Documentation [here](https://developer.mozilla.org/bm/docs/Web/JavaScript)) (Python Documentation [here](https://docs.python.org/3.7/tutorial/index.html))
   
-* Buy Raspberry Pi and make a small project with it (list of projects [here](https://circuitdigest.com/simple-raspberry-pi-projects-for-beginners)).
+* Buy a Raspberry Pi and make a small project with it (list of projects [here](https://circuitdigest.com/simple-raspberry-pi-projects-for-beginners)).
 
 * Buy Arduino and make a small project with it (list of projects [here](https://www.meetup.com/Bend-Arduino-Group/messages/65762292/?_cookie-check=kTIC62wwRBcvcbzE)).
 
@@ -21,7 +36,7 @@
 
 * Learn about database system like MySQL or MongoDB.
 
-* Learn how to use mongoDB or mySQL and interface it with some language like C++ or JavaScript.
+* Learn how to use MongoDB or MySQL and interface it with some language like C++ or JavaScript.
 
 * Learn how servers work
 
@@ -33,5 +48,20 @@
 
 * Look at [this](https://www.javascriptstuff.com/articles/) blog for more on JS and ReactJS
 
-* Install a Linux based OS ([Ubuntu](https://www.ubuntu.com/desktop),[Arch Linux](https://www.archlinux.org/)) on your laptop and learn how to operate Linux based Operating Systems.
+* Here are some websites where you can find news about upcoming technologies and really awesome stuff
 
+ [The Verge](https://www.theverge.com/)
+
+ [The New Stack](https://thenewstack.io/)
+
+ [The Well Known TechCrunch](https://techcrunch.com/)
+
+ [The Next Web](https://techcrunch.com/)
+
+ [The Medium](https://medium.com/topic/technology)
+
+* Learn how to use APIs (All the Google Applications like Drive, Calendar, Contacts, YouTube are mostly on GitHub)
+
+ * For example, try accessing or downloading your drive files through your command line and try printing your liked videos from YouTube by using their APIs. 
+
+ * You can imagine anything more you want and play around with them which in turn gives motivation.
