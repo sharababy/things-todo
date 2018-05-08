@@ -1,6 +1,6 @@
-## Things to todo
+# Things to todo
 
-# General Stuff
+## General Stuff
 
 * Check out what comes inside Computer Science by watching this video [Map of Computer Science](https://youtu.be/SzJ46YA_RaA).
 
@@ -79,23 +79,23 @@
 
 * If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) 
 
-# Languages
+## Languages
 
-# Projects
+## Projects
 
-# Fun Stuff
+## Fun Stuff
 
-# Webdev
+## Webdev
 
-# Appdev
+## Appdev
 
-# Machine Learning (Terminator Stuff)
+## Machine Learning (Terminator Stuff)
 
-# Bash & Linux
+## Bash & Linux
 
-# Free stuff
+## Free stuff
 
-# All kinds of Tutorials
+## All kinds of Tutorials
 
 
 
