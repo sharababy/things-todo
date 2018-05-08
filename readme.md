@@ -1,3 +1,7 @@
+## Things to todo
+
+# General Stuff
+
 * Check out what comes inside Computer Science by watching this video [Map of Computer Science](https://youtu.be/SzJ46YA_RaA).
 
 * Install a Linux based OS ([Ubuntu](https://www.ubuntu.com/desktop),[Arch Linux](https://www.archlinux.org/)) on your laptop and learn how to operate Linux based Operating Systems.
@@ -74,4 +78,26 @@
 * Try Learning more about Data Structures and implement them in at least one language
 
 * If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) 
+
+# Languages
+
+# Projects
+
+# Fun Stuff
+
+# Webdev
+
+# Appdev
+
+# Machine Learning (Terminator Stuff)
+
+# Bash & Linux
+
+# Free stuff
+
+# All kinds of Tutorials
+
+
+
+
 
