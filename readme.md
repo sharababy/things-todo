@@ -124,3 +124,13 @@ It is the best place for starting web development.
 
 * Sign up for [Github Student Developer Pack](https://education.github.com/pack) to get some sweet goodies (like free private repositories on github).
 
+
+## What you should not do this summer 🚭 🚯 📵 🔞
+
+* Don't waste your time binge-watching a TV series.
+
+* If you go to youtube to see a video, then don't click on the suggested videos after that, it will take you into an infinte spiral of endless entertainment.
+
+* Don't sleep 12 hours a day
+
+* Don't be lazy
