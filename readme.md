@@ -54,7 +54,7 @@ It is the best place for starting web development.
 * Learn how to make a website with a FrontEnd Framework (Angular JS, React JS, Vue JS).
 
 
-## I would like to develope a Mobile App 📱
+## I would like to develop a Mobile App 📱
 
 * Learn Kotlin for android app development.
 
@@ -103,6 +103,10 @@ It is the best place for starting web development.
 * [Here](https://github.com/cs-books/influential-cs-books) is a comprehensive list of cs books that everyone should definitely read.
 
 * Try Reading CLRS
+
+* These are places where you can get any programming book you will ever need for free !!!
+	* [Github repo ffor free CS books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+	* [AllItEbooks.in](http://www.allitebooks.in/)
 
 
 ## I'd like to try out some game development 🎮
