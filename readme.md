@@ -131,6 +131,6 @@ It is the best place for starting web development.
 
 * If you go to youtube to see a video, then don't click on the suggested videos after that, it will take you into an infinte spiral of endless entertainment.
 
-* Don't sleep 12 hours a day
+* Don't sleep 12+ hours a day
 
 * Don't be lazy
