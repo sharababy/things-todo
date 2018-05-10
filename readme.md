@@ -13,29 +13,27 @@ Hi everyone, If you have no clue what you will do after the first 4 exciting day
 
 * Make it a point that whatever(yes!! literally everything) you do in your computer you do it through command line. Even when it comes to copying, moving or renaming files. Refrain from using file explorers and GUI clients until you really get a firm grip on Linux commands.
 
-* Install and Learn how to use GIT from [here](https://git-scm.com/) **(Very Important)**
+* Make a Github Account **(Very Important)**.
 
-* Make a Github Account **(Very Important)**
-
+* Install and Learn how to use GIT from [here](https://git-scm.com/) **(Very Important)**.
 
 ## I want to learn a new (computer) language, But I don't know which one 🙄
 
-* You need to learn at least five languages by the time you pass out of college. Some really good languages both for competitive programming (mainly for object oriented programming) and web development are : 
+* You need to learn at least five languages by the time you pass out of college. Some really good languages both for competitive programming (mainly for object oriented programming) and web development are: 
 
-	* Learn C++(http://www.learncpp.com/cpp-tutorial/01-introduction-to-these-tutorials/)
+	* **Learn C++**: [Here](http://www.learncpp.com/cpp-tutorial/01-introduction-to-these-tutorials/)
 
-	* Learn how to use STL with C++(https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)
+	* **Learn how to use STL with C++**: [Here](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/)
 
+	* **Python**: [The Python Tutorial](https://docs.python.org/3/tutorial/)
 
-	* Python
+	* **Javascript** [Here](https://www.w3schools.com/js/default.asp) and [Here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is embedding JS into web pages
 
-	* Javascript [here](https://www.w3schools.com/js/default.asp) and [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is embedding JS into web pages
+	* **Java**
 
-	* Java
+	* **Golang**: [Here](https://golang.org/)
 
-	* Golang [here](https://golang.org/)
-
-	* Rust [here](https://www.rust-lang.org/en-US/) (mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
+	* **Rust**: [Here](https://www.rust-lang.org/en-US/) (Mainly for system programming languages and device drivers. Check it out if you're interested and read the documentation.)
 
 
 ## I would like to open doors and windows with my Phone 🤖
@@ -69,20 +67,20 @@ It is the best place for starting web development.
 
 * Learn how to use MongoDB or MySQL and interface it with some language like C++ or JavaScript.
 
-* Learn how data centers and large data clusters work
+* Learn how data centers and large data clusters work.
 
 
 ## I would like to improve my general logic and coding abilities that will help me in interviews ⚔
 
-* Try solving atleast 2 problems a day from CodeChef / HackerRank / HackerEarth
+* Try solving atleast 2 problems a day from CodeChef / HackerRank / HackerEarth.
 
-* Try Learning more about Data Structures and implement them in at least one language
+* Try Learning more about Data Structures and implement them in at least one language.
 
 ## I am just generally interested in the exploring the world of CS 🔭
 
-* Explore stuff from [Github Explore](https://github.com/explore)
+* Explore stuff from [Github Explore](https://github.com/explore).
 
-* Look at [this](https://www.javascriptstuff.com/articles/) blog for more on JS and ReactJS
+* Look at [this](https://www.javascriptstuff.com/articles/) blog for more on JS and ReactJS.
 
 * Here are some websites where you can find news about upcoming technologies and really awesome stuff
 
@@ -102,7 +100,7 @@ It is the best place for starting web development.
 
 * [Here](https://github.com/cs-books/influential-cs-books) is a comprehensive list of cs books that everyone should definitely read.
 
-* Try Reading CLRS
+* Try Reading [CLRS](https://www.amazon.in/Introduction-Algorithms-3e-Thomas-Cormen/dp/0262033844), you can easily get a pdf online.
 
 * These are places where you can get any programming book you will ever need for free !!!
 	* [Github repo for free CS books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
@@ -111,12 +109,12 @@ It is the best place for starting web development.
 
 ## I'd like to try out some game development 🎮
 
-* If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4) 
+* If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4).
 
 
 ## Anything else I can do ?
 
-* Learn how to use APIs (All the Google Applications like Drive, Calendar, Contacts, YouTube are mostly on GitHub)
+* Learn how to use APIs (All the Google Applications like Drive, Calendar, Contacts, YouTube are mostly on GitHub).
 
   * For example, try accessing or downloading your drive files through your command line and try printing your liked videos from YouTube by using their APIs. 
 
@@ -124,14 +122,16 @@ It is the best place for starting web development.
 
 * Sign up for [Github Student Developer Pack](https://education.github.com/pack) to get some sweet goodies (like free private repositories on github).
 
+* Check out [GSOC (Google Summer of Code](https://summerofcode.withgoogle.com/) and what is it about.
+
 
 ## What you should not do this summer 🚭 🚯 📵 🔞
 
 * Don't waste your time binge-watching a TV series.
 
-* If you go to youtube to see a video, then don't click on the suggested videos after that, it will take you into an infinte spiral of endless entertainment.
+* If you go to youtube to see a video, then don't click on the suggested videos after that, it will take you into an infinte spiral of endless entertainment. Disable autoplay.
 
-* Don't sleep 12+ hours a day
+* Don't sleep 12+ hours a day.
 
-* Don't be lazy
+* Don't be lazy.
 
