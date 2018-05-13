@@ -122,8 +122,11 @@ It is the best place for starting web development.
 
 * Sign up for [Github Student Developer Pack](https://education.github.com/pack) to get some sweet goodies (like free private repositories on github).
 
-* Check out [GSOC (Google Summer of Code](https://summerofcode.withgoogle.com/) and what is it about.
+* Check out [GSOC (Google Summer of Code)](https://summerofcode.withgoogle.com/about/) and what is it about. Wikipedia link: [Google Summer of Code](https://en.wikipedia.org/wiki/Google_Summer_of_Code)
 
+* Check out [Google Code Jam](https://code.google.com/codejam/about). Wikipedia link: [Google Code Jam](https://en.wikipedia.org/wiki/Google_Code_Jam)
+
+* Check out what is [ACM ICPC](https://icpc.baylor.edu/). Wikipedia link: [ACM ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)
 
 ## What you should not do this summer 🚭 🚯 📵 🔞
 
