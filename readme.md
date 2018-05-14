@@ -128,6 +128,8 @@ It is the best place for starting web development.
 
 * Check out what is [ACM ICPC](https://icpc.baylor.edu/). Wikipedia link: [ACM ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest)
 
+* Check out this amazing list of [courses](https://github.com/prakhar1989/awesome-courses) from the world's best universities.
+
 ## What you should not do this summer 🚭 🚯 📵 🔞
 
 * Don't waste your time binge-watching a TV series.
