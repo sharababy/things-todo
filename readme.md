@@ -51,6 +51,9 @@ It is the best place for starting web development.
 
 * Learn how to make a website with a FrontEnd Framework (Angular JS, React JS, Vue JS).
 
+* Learn Django - a web framework in python if you are a fan of [DRY principle](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) and [pythonic](https://stackoverflow.com/questions/25011078/what-does-pythonic-mean) cultures.
+	[CodingEntrepreneurs](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy) is an awesome youtube channel to get started with django.
+
 
 ## I would like to develop a Mobile App 📱
 
