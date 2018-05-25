@@ -57,7 +57,7 @@ It is the best place for starting web development.
 
 ## I would like to develop a Mobile App 📱
 
-* Learn Kotlin for android app development.
+* Learn android app development using Kotlin or Java. [This](https://www.youtube.com/playlist?list=PL1q3ROAofjeOUwh7lPBnGbg__DUodwLN7) is a great place to start. The guy explains both theory and practicals with the right balance.
 
 * Learn Swift for iOS app development.
 
