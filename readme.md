@@ -145,6 +145,13 @@ It is the best place for starting web development.
 * [Rancher OS](https://rancher.com/rancher-os/) (The OS itself is completely dockerized and so are all of its services.)
 * [Gitter](https://gitter.im/home/explore) It is not a technology but a tech community platform where developers help each other just like Stack Overflow but faster help given.
 
+##Some motivation so that you don't think you're a piece of **** This is for people who can listen to this and won't get bored immediately.
+* Read a lot. Read large amounts of documentation. There are two types of intelligence. 1. Technical. 2. Functional.
+* Always go for Functional. Technical intelligence is "you do it when you're given a task. You somehow find out a way of achieving it. Like a robot."
+* Functional is when "you know why you're doing it. In that way you find out ways of optimising stuff and improving.
+* Go deep into the mechanisms of anything. Fingertip understanding. One thing I personally found out after years of being in fear was "Nothing will happen to your computer machine. If something goes wrong you can always re-install anything." You just gotta have some ISOs in hand when stuff goes crazy.
+* Read more than you do. The worst part of implementing anthing or trying out new technologies is reading the official documentation. But cold coal doesn't give you ironed clothes. You have to work hard in order to live an extra ordinary life.
+
 ## What you should not do this summer 🚭 🚯 📵 🔞
 
 * Don't waste your time binge-watching a TV series.
