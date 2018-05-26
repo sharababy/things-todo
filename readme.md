@@ -133,6 +133,18 @@ It is the best place for starting web development.
 
 * Check out this amazing list of [courses](https://github.com/prakhar1989/awesome-courses) from the world's best universities.
 
+## You also have a different set of technologies to check out
+
+* [Docker](https://www.docker.com/)
+* [Kubernetes](https://kubernetes.io/)
+* The above two are related. So check out both of them.
+* [Docker Ebook](https://drive.google.com/file/d/0BwV9gSjgkJWna2VmZms4cTNJaXM/view?usp=sharing) Please try out and practice. Hit the command line.
+* [MainFlux IoT](https://www.mainflux.com/)
+* [ThingsBoard IoT](https://thingsboard.io/)
+* Both of the above IoT platform are used extensively in startups.
+* [Rancher OS](https://rancher.com/rancher-os/) (The OS itself is completely dockerized and so are all of its services.)
+* [Gitter](https://gitter.im/home/explore) It is not a technology but a tech community platform where developers help each other just like Stack Overflow but faster help given.
+
 ## What you should not do this summer 🚭 🚯 📵 🔞
 
 * Don't waste your time binge-watching a TV series.
