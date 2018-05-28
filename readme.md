@@ -1,3 +1,8 @@
+<p align="center">
+	<a href="https://www.explainxkcd.com/wiki/index.php/149:_Sandwich"><img src="https://imgs.xkcd.com/comics/sandwich.png" alt="XKCD: Sandwich" /></a></br>
+	Source: <a href="https://xkcd.com/149/">XKCD Sandwich</a>
+</p>
+
 # What Should I do in the Summmer ? 🤔
 
 Hi everyone, If you have no clue what you will do after the first 4 exciting days at home, we have come up with a bunch of interesting things you could try out.
