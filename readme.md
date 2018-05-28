@@ -29,7 +29,9 @@ Hi everyone, If you have no clue what you will do after the first 4 exciting day
 
 	* **Javascript** [Here](https://www.w3schools.com/js/default.asp) and [Here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is embedding JS into web pages
 
-	* **Java**: [Part 1](http://mooc.fi/courses/2013/programming-part-1/) and [Part 2](http://mooc.fi/courses/2013/programming-part-2/) (A good introduction to Object Oriented Programming Concepts)
+	* **Java**: 
+		* [Part 1](http://mooc.fi/courses/2013/programming-part-1/) and [Part 2](http://mooc.fi/courses/2013/programming-part-2/) (A good introduction to Object Oriented Programming Concepts)
+		* [Official Java Tutorials by Oracle](https://docs.oracle.com/javase/tutorial/)
 
 	* **Golang**: [Here](https://golang.org/)
 
