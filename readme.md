@@ -161,11 +161,11 @@ It is the best place for starting web development.
 
 ## What you should not do this summer 🚭 🚯 📵 🔞
 
-* Don't waste your time binge-watching a TV series.
+[x] Don't waste your time binge-watching a TV series.
 
-* If you go to youtube to see a video, then don't click on the suggested videos after that, it will take you into an infinte spiral of endless entertainment. Disable autoplay.
+[x] If you go to youtube to see a video, then don't click on the suggested videos after that, it will take you into an infinte spiral of endless entertainment. Disable autoplay.
 
-* Don't sleep 12+ hours a day.
+[x] Don't sleep 12+ hours a day.
 
-* Don't be lazy.
+[x] Don't be lazy.
 
