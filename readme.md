@@ -66,6 +66,10 @@ It is the best place for starting web development.
 
 * Learn android app development using Kotlin or Java. [This](https://www.youtube.com/playlist?list=PL1q3ROAofjeOUwh7lPBnGbg__DUodwLN7) is a great place to start. The guy explains both theory and practicals with the right balance.
 
+* Check out [Corona SDK](https://coronalabs.com/). This will get you up and running very quickly. It uses a language called Lua which is very similar to python as the base.
+
+* Also this is [Kivy](https://kivy.org/#home) for you python aficionados. Do give it a quick visit.
+
 * Learn Swift for iOS app development.
 
 * For Cross platform app development use React Native.
