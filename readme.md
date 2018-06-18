@@ -70,6 +70,8 @@ It is the best place for starting web development.
 
 * Also this is [Kivy](https://kivy.org/#home) for you python aficionados. Do give it a quick visit.
 
+* For ios/android development, check out [Flutter](https://flutter.io/). Has a differnet approach to front end unlike others. Follows reactive design principle. (Like ReactJS). Is programmed in Dart (similar to c, Object oriented and easy to pick up). Made by google. And builds both ios/android app from just one code. Here's how to [Get Started](https://flutter.io/get-started/).
+
 * Learn Swift for iOS app development.
 
 * For Cross platform app development use React Native.
