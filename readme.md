@@ -8,7 +8,8 @@
 - TMI? Start Basics [here](#start-with-these-things)
 - Want a Good List of new languages to learn? Check [this](#i-want-to-learn-a-new-computer-language-but-i-dont-know-which-one-) out.
 - Fancy stuff with mobile phones? Find that [here](#i-would-like-to-open-doors-and-windows-with-my-phone-)
-- Want to get your hands dirty with some [Web Development](#i-would-like-to-learn-how-to-make-a-website-)
+- Want to get your hands dirty with some [Web Development](#i-would-like-to-learn-how-to-make-a-website-)?
+- Better yet, How about [Mobile App Development](#i-would-like-to-develop-a-mobile-app-)
 
 # What Should I do in the Summmer ? 🤔
 
