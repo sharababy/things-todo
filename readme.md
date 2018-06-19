@@ -144,6 +144,7 @@ It is the best place for starting web development.
 
 * If you like developing Games try out [Unity](https://unity3d.com/learn/tutorials) or [UnReal](https://www.unrealengine.com/en-US/what-is-unreal-engine-4).
 
+* If you are interested to develop some Augmented Reality, [Vuforia](https://www.vuforia.com/) (used along with unity) is for you!
 
 ## Anything else I can do ?
 
