@@ -3,7 +3,7 @@
 	Source: <a href="https://xkcd.com/149/">XKCD Sandwich</a>
 </p>
 
-# TOC
+# Table Of Contents
 - [What to do THIS Summer?](#what-should-i-do-in-the-summmer-?)
 - TMI? Start Basics [here](#start-with-these-things)
 - Want a Good List of new languages to learn? Check [this](#i-want-to-learn-a-new-computer-language-but-i-dont-know-which-one-) out.
@@ -12,6 +12,13 @@
 - Better yet, How about [Mobile App Development](#i-would-like-to-develop-a-mobile-app-)
 - Fancy some [Data Magic](#i-would-like-to-know-how-to-store-large-amounts-of-data-)
 - But first, better your [logic abilities and programming skills](#i-would-like-to-improve-my-general-logic-and-coding-abilities-that-will-help-me-in-interviews-)
+- Some [Game Development](#id-like-to-try-out-some-game-development-)
+- General Exploration and the [World of CS](#i-am-just-generally-interested-in-the-exploring-the-world-of-cs-)
+- Some technical [Books to read](#id-like-to-read-a-few-books-on-cs-this-summer)
+- Other Miscellaneous [Things to do](#anything-else-i-can-do-) to make life easier.
+- Advanced [Technologies and stacks](#you-also-have-a-different-set-of-technologies-to-check-out) you can checkout. Beware, they may seem complicated...
+- Some slight flavour of [Motivation](#some-motivation-so-that-you-dont-think-youre-a-piece-of--this-is-for-people-who-can-listen-to-this-and-wont-get-bored-immediately) for yall.
+- [Stuff](#what-you-should-not-do-this-summer----) you DON'T want to end up doing in your free time.
 
 # What Should I do in the Summmer ? 🤔
 
