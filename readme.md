@@ -10,7 +10,7 @@
 - Move stuff with mobile phones? Find that [here](#i-would-like-to-open-doors-and-windows-with-my-phone-)
 - Want to get your hands dirty with some [Web Development](#i-would-like-to-learn-how-to-make-a-website-)?
 - Better yet, How about [Mobile App Development](#i-would-like-to-develop-a-mobile-app-)
-- Fancy some [Data Magic](#i-would-like-to-store-large-amounts-of-data-)
+- Fancy some [Data Magic](#i-would-like-to-know-how-to-store-large-amounts-of-data-)
 
 # What Should I do in the Summmer ? 🤔
 
