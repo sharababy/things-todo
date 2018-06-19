@@ -11,6 +11,7 @@
 - Want to get your hands dirty with some [Web Development](#i-would-like-to-learn-how-to-make-a-website-)?
 - Better yet, How about [Mobile App Development](#i-would-like-to-develop-a-mobile-app-)
 - Fancy some [Data Magic](#i-would-like-to-know-how-to-store-large-amounts-of-data-)
+- But first, better your [logic abilities and programming skills](#i-would-like-to-improve-my-general-logic-and-coding-abilities-that-will-help-me-in-interviews-)
 
 # What Should I do in the Summmer ? 🤔
 
