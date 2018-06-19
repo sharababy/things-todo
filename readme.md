@@ -7,7 +7,7 @@
 - [What to do THIS Summer?](#what-should-i-do-in-the-summmer-?)
 - TMI? Start Basics [here](#start-with-these-things)
 - Want a Good List of new languages to learn? Check [this](#i-want-to-learn-a-new-computer-language-but-i-dont-know-which-one-) out.
-- Fancy stuff with mobile phones? Find that [here](#i-would-like-to-open-doors-and-windows-with-my-phone)
+- Fancy stuff with mobile phones? Find that [here](#i-would-like-to-open-doors-and-windows-with-my-phone-)
 
 # What Should I do in the Summmer ? 🤔
 
