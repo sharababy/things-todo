@@ -5,7 +5,7 @@
 
 # TOC
 - [What to do THIS Summer?](#what-should-i-do-in-the-summmer-?)
-- TMI? Start Basics [here](#start-with-these-things:)
+- TMI? Start Basics [here](#start-with-these-things)
 
 # What Should I do in the Summmer ? 🤔
 
