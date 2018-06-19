@@ -105,7 +105,7 @@ It is the best place for starting web development.
 
 ## I would like to improve my general logic and coding abilities that will help me in interviews ⚔
 
-* Try solving atleast 2 problems a day from [HackerRank](https://www.hackerrank.com/) / [CodeChef](https://www.codechef.com/) / [HackerEarth])https://www.hackerearth.com/).
+* Try solving atleast 2 problems a day from [HackerRank](https://www.hackerrank.com/) / [CodeChef](https://www.codechef.com/) / [HackerEarth](https://www.hackerearth.com/).
 
 * Try Learning more about Data Structures and implement them in at least one language.
 
