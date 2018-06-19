@@ -3,8 +3,9 @@
 	Source: <a href="https://xkcd.com/149/">XKCD Sandwich</a>
 </p>
 
-#TOC
+# TOC
 - [What to do THIS Summer?](#what-should-i-do-in-the-summmer-?)
+- TMI? Start Basics [here](#start-with-these-things:)
 
 # What Should I do in the Summmer ? 🤔
 
