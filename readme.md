@@ -29,7 +29,7 @@ Hi everyone, If you have no clue what you will do after the first 4 exciting day
 
 ### Start with these things:
 
-* Check out what comes inside Computer Science by watching this video [Map of Computer Science](https://youtu.be/SzJ46YA_RaA).
+* Check out what comes inside Computer Science by watching this video [Map of Computer Science](https://youtu.be/SzJ46YA_RaA). \[Bonus: [Map of Mathematics](https://youtu.be/OmJ-4B-mS-Y) \]
 
 * Install a Linux based OS ([Ubuntu](https://www.ubuntu.com/desktop),[Arch Linux](https://www.archlinux.org/)) on your laptop and learn how to operate Linux based Operating Systems.
 
